@@ -72,6 +72,7 @@ This was created as a result of a need I had with my time tracking. But now that
 Some ones on the top of mind 
 1. Time-zone conversion 
 2. custom tag modifications 
+3. reversing the order of formatting. Toggl to Clockify 
 
 Let me know if you would like to see this added. Or if you want, you can play around and add them yourself. 
 
