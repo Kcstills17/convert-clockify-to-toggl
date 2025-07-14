@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from sys import argv
 
 # -------- CONFIG --------
-USER_EMAIL = "bumjkqc3i@mozmail.com"
+USER_EMAIL = "Youremail@email.com"
 # ------------------------
 
 def to_24_hour(t):
